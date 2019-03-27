@@ -1395,12 +1395,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1484,7 +1484,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1555,7 +1555,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #b2ccd2;
 }
 .cid-qTkzRZLJNu button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1780,7 +1780,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #f9f295 !important;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/paper2-2000x2000.jpg");
